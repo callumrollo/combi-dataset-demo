@@ -1,0 +1,10 @@
+name: sci
+channels:
+  - conda-forge
+dependencies:
+        - numpy
+        - xarray
+        - ipython
+        - jupyter
+        - dateparser
+        - netcdf4
